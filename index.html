@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic-Tac-Toe Game</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="description" content="A fun 2-player Tic-Tac-Toe game with custom player names">
+    <link rel="icon" href="https://cdn.jsdelivr.net/npm/twemoji@14/assets/svg/274c.svg">
+</head>
+<body>
+    <div class="msg-container hide">
+        <p id="msg">Winner!</p>
+        <button id="renew">NEW GAME</button>
+    </div>
+    <main>
+        <h1>Tic-Tac-Toe</h1>
+<div id="name-modal">
+  <div id="name-form">
+    <h2>Enter Player Names</h2>
+    <input type="text" id="playerX-name" placeholder="Player X Name" />
+    <input type="text" id="playerO-name" placeholder="Player O Name" />
+    <button id="start-btn">START GAME</button>
+  </div>
+</div>
+        <div class="container">
+        <div class="game">
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+            <button class="box"></button>
+        </div>
+        </div>
+        <button id="reset">RESET GAME</button>
+    </main>
+    <script src="app.js"></script>
+</body>
+</html>
