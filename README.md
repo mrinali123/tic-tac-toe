@@ -9,14 +9,13 @@ A clean, browser-based 2-player Tic-Tac-Toe game built with HTML, CSS and JavaSc
 - Reset / New Game support
 
 ## How to Play
-1. Open `index.html` in your browser
-2. Enter names for Player X and Player O
-3. Click START and play!
+1. Enter names for Player X and Player O
+2. Click START and play!
 
 ## Tech Stack
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- JavaScript
 
 ## Live Demo
-[Play here](https://github.com/mrinali123/tic-tac-toe.git) 
+[Play here] (https://github.com/mrinali123/tic-tac-toe.git)
