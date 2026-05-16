@@ -18,4 +18,4 @@ A clean, browser-based 2-player Tic-Tac-Toe game built with HTML, CSS and JavaSc
 - JavaScript
 
 ## Live Demo
-[Play here] (https://github.com/mrinali123/tic-tac-toe.git)
+[Play here] (https://mrinali123.github.io/tic-tac-toe/)
